@@ -1,4 +1,4 @@
-# Why unit test
+# Why unit test?
 
 Take this code from the rhn_satellite_api gem used to manage channel subscriptions and patch RHEL servers.
 
